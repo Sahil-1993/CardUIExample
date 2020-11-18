@@ -1,0 +1,6 @@
+module Pods_CardUIExample {
+  umbrella header "Pods-CardUIExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
